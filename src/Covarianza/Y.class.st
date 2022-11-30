@@ -5,7 +5,7 @@ Class {
 }
 
 { #category : #inline }
-Y >> foo: Ay [ [ 
+Y >> foo: Ay [ 
 ^ Ay 	
-]
+
 ]
