@@ -4,7 +4,7 @@ Class {
 	#category : #Covarianza
 }
 
-{ #category : #'as yet unclassified' }
-A >> aaa: a [
-^A
+{ #category : #printing }
+A >> aaa [
+[Transcript show: 'A.aaa()'; cr.]	
 ]
